@@ -6,11 +6,11 @@ feature 'List articles on index page' do
 
 
 it 'displays first article title' do
-expect(page).to have_content 'we are starting with rails'  
+expect(page).to have_content 'A breaking news item'  
 end
 
 it 'displays second article' do
-expect(page).to have_content 'this is a long week'
+expect(page).to have_content 'Some really breaking action'
 
 end
 
