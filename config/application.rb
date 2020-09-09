@@ -31,3 +31,5 @@ module RailsDemo
       generate.request_specs false
   end
 end
+
+end
