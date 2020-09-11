@@ -22,12 +22,36 @@
       "/home/john/rails_demo/app/controllers/articles_controller.rb": [
         1,
         1,
-        2,
+        6,
         null,
         null,
         1,
         2,
         null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
         null,
         null,
         null
@@ -60,6 +84,6 @@
         0
       ]
     },
-    "timestamp": 1599674286
+    "timestamp": 1599853655
   }
 }
