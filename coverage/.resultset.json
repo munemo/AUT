@@ -1,16 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/home/john/rails_demo/app/models/user.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/john/rails_demo/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
       "/home/john/rails_demo/app/helpers/application_helper.rb": [
         1,
         null
       ],
       "/home/john/rails_demo/app/models/article.rb": [
-        1,
-        1,
-        null
-      ],
-      "/home/john/rails_demo/app/models/application_record.rb": [
         1,
         1,
         null
@@ -84,6 +91,6 @@
         0
       ]
     },
-    "timestamp": 1599941581
+    "timestamp": 1599944198
   }
 }
